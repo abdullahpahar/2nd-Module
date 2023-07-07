@@ -1,0 +1,38 @@
+
+body{
+    background-image:url(https://images.pexels.com/photos/133633/pexels-photo-133633.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}.para-3{
+    color:rgb(4, 18, 17);
+    font-style: italic;
+    font-size: 20px;
+    justify-content: center;
+    background-attachment:scroll;
+    background-position: center;
+}
+h1{
+    text-align: center;
+}
+#Task1-wrapper{
+   
+}
+.para-1{
+    background-color: rgb(220, 217, 224);
+    height:300px;
+    width:800px;
+    border:10px solid red;
+    padding:5px 20px;
+    text-align: justify;
+    margin: 20px;
+    border-radius: 2px 4px 2px;
+    display: inline-block;
+}
+.italic{
+    font-style: italic;
+    font-weight: lighter;
+    margin-top:20px;
+   #fff;
+
+}
